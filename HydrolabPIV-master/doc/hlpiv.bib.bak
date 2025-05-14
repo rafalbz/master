@@ -1,0 +1,208 @@
+% Encoding: ISO-8859-1
+
+@Article{Adrian1991,
+  author =    {Adrian, R. J.},
+  title =     {Particle-imaging techniques for experimental fluid mechanics},
+  journal =   {Annu. Rev. Fluid Mech.},
+  year =      {1991},
+  volume =    {23},
+  pages =     {261-304},
+  owner =     {josteiko},
+  timestamp = {2014.05.20}
+}
+
+@Manual{Dalziel2012,
+  title =        {DigiFlow user guide},
+  author =       {Dalziel, Stuart},
+  organization = {Dalziel research partners},
+  edition =      {{3.4}},
+  year =         {2012},
+  note =         {\url{http://www.dalzielresearch.com/digiflow/digiflow.pdf}},
+  owner =        {josteiko},
+  timestamp =    {2009.04.06}
+}
+
+@Conference{Gui1997,
+  author =    {Gui, L. C. and Merzkirch, W.},
+  title =     {A fast mask technique for the phase-separated evaluation of two phase piv recordings},
+  booktitle = {Procedings of the 7th international conference on laser anemometry advances and applications},
+  year =      {1997},
+  pages =     {447-454},
+  owner =     {josteiko},
+  timestamp = {2014.05.20}
+}
+
+@Conference{Gui1998,
+  author =    {Gui, L. C. and Merzkirch, W. and Lindken, R.},
+  title =     {An advanced MQD tracking algorithm for DPIV},
+  booktitle = {The 9th International Symposium on "Application of laser technique to fluid mechanics"},
+  year =      {1998},
+  owner =     {josteiko},
+  timestamp = {2014.06.05}
+}
+
+@Article{Huang1993a,
+  author =    {Huang, H. T. and Fiedler, H. E. and Wang, J. J.},
+  title =     {Limitation and improvement of PIV. Part I: Limitation of conventional technique due to deformation of particle image patterns},
+  journal =   {Experiments in Fluids},
+  year =      {1993},
+  volume =    {15},
+  pages =     {168-174},
+  owner =     {josteiko},
+  timestamp = {2014.05.28}
+}
+
+@Article{Huang1993b,
+  author =    {Huang, H. T. and Fiedler, H. E. and Wang, J. J.},
+  title =     {Limitation and improvement of PIV. Part II: Particle image distortion, a novel technique},
+  journal =   {Experiments in Fluids},
+  year =      {1993},
+  volume =    {15},
+  pages =     {263-273},
+  owner =     {josteiko},
+  timestamp = {2014.05.28}
+}
+
+@PhdThesis{Kolaas2014,
+  author =    {Jostein Kolaas},
+  title =     {Optimization of optical measurement techniques in fluid mechanics with application to micro fluidics, multiphase flow and water waves.},
+  school =    {University of Oslo},
+  year =      {2014},
+  owner =     {josteiko},
+  timestamp = {2016.05.12}
+}
+
+@Article{Nobach2005,
+  author =    {Nobach, H. and Honkanen, M.},
+  title =     {Two-dimensional Gaussian regression for sub-pixel displacement estimation in particle image velocimetry or particle position estimation in particle tracking velocimetry},
+  journal =   {Experiments in Fluids},
+  year =      {2005},
+  volume =    {38},
+  pages =     {511-515},
+  owner =     {josteiko},
+  timestamp = {2014.05.12}
+}
+
+@Article{Olsen2000,
+  author =    {Olsen, M. G. and Adrian, R. J.},
+  title =     {Out-of-focus effects on particle image visibility and correlation in microscopic particle image velocimetry},
+  journal =   {Experiments in Fluids},
+  year =      {2000},
+  volume =    {29},
+  pages =     {S166-S174},
+  owner =     {Jostein Kolaas},
+  timestamp = {2008.06.02}
+}
+
+@InProceedings{Padfield2010,
+  author =    {Dirk Padfield},
+  title =     {Masked FFT Registration},
+  booktitle = {Proc. CVPR},
+  year =      {2010},
+  pages =     {2918-2925},
+  owner =     {josteiko},
+  timestamp = {2013.04.12}
+}
+
+@Article{Padfield2012,
+  author =    {Dirk Padfield},
+  title =     {Masked Object Registration in the Fourier Domain},
+  journal =   {IEEE Transactions on image processing},
+  year =      {2012},
+  volume =    {21},
+  pages =     {2706-2718},
+  number =    {5},
+  owner =     {josteiko},
+  timestamp = {2013.04.12}
+}
+
+@Book{Raffel2007,
+  title =     {Particle image velocimetry: a practical guide},
+  publisher = {Springer Berlin Heidelberg New York},
+  year =      {2007},
+  author =    {Raffel, Markus and Willert, Christian E. and Wereley, Steven T. and Kompenhans, J\"urgen},
+  edition =   {2nd},
+  owner =     {Atle Jensen},
+  timestamp = {2008.06.02}
+}
+
+@Article{Scarano2002,
+  author =    {Scarano, F.},
+  title =     {Iterative image deformation methods in PIV},
+  journal =   {Measurement Science and Technology},
+  year =      {2002},
+  volume =    {13},
+  pages =     {R1-R19},
+  owner =     {Jostein Kolaas},
+  timestamp = {2008.06.02}
+}
+
+@InCollection{Sveen2004,
+  author =    {Sveen, J. K. and Cowen, E. A.},
+  title =     {Quantitative imaging techniques and their application to wavy flows},
+  booktitle = {PIV and Water Waves},
+  publisher = {World Scientific Pub. Co},
+  year =      {2004},
+  editor =    {Grue, John and Liu, Philip L.-F. and Pedersen, Geir K.},
+  chapter =   {1},
+  pages =     {1-49},
+  owner =     {Jostein Kolaas},
+  timestamp = {2008.06.02}
+}
+
+@InCollection{Wereley2005,
+  author =    {Wereley, Steven T. and Meinhart, Carl D.},
+  title =     {Micron-resolution particle image velocimetry},
+  booktitle = {Microscale diagnostic techniques},
+  publisher = {Springer Berlin Heidelberg New York},
+  year =      {2005},
+  editor =    {Breuer, Kenneth S.},
+  chapter =   {2},
+  pages =     {51-112},
+  owner =     {Jostein Kolaas},
+  timestamp = {2008.06.02}
+}
+
+@Book{Westerweel1993,
+  title =     {Digital Particle Image Velocimetry -Theory and Application},
+  publisher = {Delft University Press},
+  year =      {1993},
+  author =    {Westerweel, J.},
+  owner =     {josteiko},
+  timestamp = {2014.06.02}
+}
+
+@Article{Westerweel1994,
+  author =    {Westerweel, J.},
+  title =     {Efficient detection of spurious vectors in particle image velcimetry data},
+  journal =   {Experiments in Fluids},
+  year =      {1994},
+  volume =    {16},
+  pages =     {236-247},
+  owner =     {josteiko},
+  timestamp = {2014.05.20}
+}
+
+@Article{Westerweel2005,
+  author =    {Westerweel, J. and Scarano, F.},
+  title =     {Universal outlier detection for PIV data},
+  journal =   {Exp. Fluids},
+  year =      {2005},
+  volume =    {39},
+  pages =     {1096-1100},
+  doi =       {10.1007/s00348-005-0016-6},
+  file =      {Westerweel2005.pdf:docs/downloaded_articles/Westerweel2005.pdf:PDF},
+  owner =     {ddrazen},
+  timestamp = {2006.11.07}
+}
+
+@Article{Willert1991,
+  author =    {Willert, C. E. and Gharib, M.},
+  title =     {Digital particle image velcimetry},
+  journal =   {Experiments in Fluids},
+  year =      {1991},
+  volume =    {10},
+  pages =     {181-193},
+  owner =     {josteiko},
+  timestamp = {2014.05.12}
+}
